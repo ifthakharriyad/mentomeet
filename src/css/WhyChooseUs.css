@@ -1,3 +1,68 @@
-.coll{
-    background-color: red;
+#why-choose-us{
+    font-size:1rem;
+    width:100vw;
+    height: 100vh;
+    padding-top:2.5rem;
+}
+.orange{
+    color:orange;
+}
+#why-choose-us .row{
+     margin-top:4rem;
+}
+#why-choose-us h1{
+    font-size:3.5rem;
+    font-weight: bolder;
+}
+#why-choose-us .col{
+    border: 2px solid grey;
+    margin: 2rem;
+    padding:5.7rem .7rem ;
+    text-align: center;
+    border-radius: 2rem;
+    box-shadow: 9px 9px 3px 0px lightgray;
+}
+#why-choose-us .col p{
+    font-size:1.2em;
+    font-weight: 400;
+}
+#why-choose-us .col img{
+    height: 120px;
+}
+#why-choose-us .col:first-child{
+    margin-left: 0px;
+    position: relative;
+}
+
+#why-choose-us .col:first-child img{
+    position: absolute;
+    top:-60px;
+
+}
+#why-choose-us .col:nth-child(2) {
+    position: relative;
+
+}
+#why-choose-us .col:nth-child(2) img{
+    position: absolute;
+    top:-60px;
+}
+#why-choose-us .col:nth-child(3) {
+    position: relative;
+
+}
+#why-choose-us .col:nth-child(3) img{
+    position: absolute;
+    top:-60px;
+}
+#why-choose-us .col:nth-child(4) {
+    position: relative;
+
+}
+#why-choose-us .col:nth-child(4) img{
+    position: absolute;
+    top:-60px;
+}
+#why-choose-us .col:last-child{
+    margin-right: 0px;
 }
