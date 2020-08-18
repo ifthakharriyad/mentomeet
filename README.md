@@ -1,2 +1,2 @@
 ## Mentomeet
-This is the repo for my Mentomeet
+Mentomeet is a project of OnlineMentor.
