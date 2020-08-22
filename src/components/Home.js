@@ -24,7 +24,7 @@ export default function Home(){
                         <img id='mic' className='position-absolute' src={mic}></img>
                     </div>
                     <img id='greaterThen' className='d-none d-sm-block position-absolute' src={greaterThen}></img>
-                 </div>
+                </div>
                  
                 <div className='col-12 col-sm-6 order-1 order-sm-2 d-flex flex-sm-row aling-items-center justify-content-center justify-content-sm-end'>
                 

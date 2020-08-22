@@ -2,7 +2,8 @@ import React from 'react';
 import './css/App.css';
 import WhyChooseUs from './components/WhyChooseUs'
 import Home from './components/Home'
-import CareerSolutionEveryone from "./components/CareerSolutionEveryone";
+import CareerSolutionEveryone from "./components/CareerSolutionEveryone"
+import BlogDetailedPage from './components/BlogPostDetailed/BlogDetailedPage'
 
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       <Home/>
       <CareerSolutionEveryone/>
       <WhyChooseUs/> 
+      <BlogDetailedPage/>
     </div>
   )
 }
