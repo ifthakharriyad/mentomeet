@@ -1,7 +1,6 @@
 import React from 'react'
 import '../../sass/BlogSideBar.scss'
 import BlogSideBarCard from './BlogSideBarCard'
-import resTable from '../../img/restaurant-table.jpg'
 import SideBarPostComment from './SideBarPostComment'
 
 

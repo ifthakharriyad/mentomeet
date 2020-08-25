@@ -1,5 +1,5 @@
 import React from 'react'
-import {Container,Row,Col} from 'react-bootstrap'
+import {Container} from 'react-bootstrap'
 import '../css/WhyChooseUs.css'
 import destination from '../assets/img/Rectangle 23.png'
 import hastleFree from '../assets/img/Rectangle 24.png'
@@ -8,7 +8,7 @@ import askQueries from '../assets/img/Rectangle 26.png'
 
 export default function WhyChooseUs(){
     return(
-      <Container  varient={'bg-primary'} id='why-choose-us'>
+      <Container  varient={'bg-primary'} id='why-choose-us' className='mt-5'>
          <h1 className='text-center'><span className='orange' >Why Choose Us?</span></h1>
          <div id='whchus-row' className='row align-items-start justify-content-center'>
                 <div  className='bg-brother col-lg-3 col-12 col-sm-6 d-flex align-items-center justify-content-center'>

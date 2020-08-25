@@ -4,6 +4,7 @@ import WhyChooseUs from './components/WhyChooseUs'
 import Home from './components/Home'
 import CareerSolutionEveryone from "./components/CareerSolutionEveryone"
 import BlogDetailedPage from './components/BlogPostDetailed/BlogDetailedPage'
+import BlogList from './components/BlogList/BlogList'
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <CareerSolutionEveryone/>
       <WhyChooseUs/> 
       <BlogDetailedPage/>
+      <BlogList/>
     </div>
   )
 }
