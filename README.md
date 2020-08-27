@@ -1,3 +1,3 @@
-## Mentomeet
+##My contributions at Mentomeet
 
-Mentomeet is a project of OnlineMentor.
+Mentomeet is a online mentorship platform and this repo contains my contributions at it.
