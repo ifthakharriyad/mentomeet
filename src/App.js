@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './css/App.css';
+//import './css/App.css';
 
 import WhyChooseUs from './components/WhyChooseUs'
 import Home from './components/Home'
@@ -22,7 +22,6 @@ function App() {
       <BlogList/>
       <About/>
       <BeyondMentorship/>
-      <WhyChooseMentomeet/>
     </div>
   )
 }

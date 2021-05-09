@@ -1,6 +1,8 @@
 import React from 'react'
 import Tab from './Tab'
 
+import '../../css/TabContent.css'
+
 export default function TabContent(){
     return(
         <div className="tab-content" id="nav-tabContent">
